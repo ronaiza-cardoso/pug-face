@@ -1,0 +1,14 @@
+{
+  "name": "pug-face",
+  "version": "0.0.1",
+  "description": "Was to be a pug, because jokes: learn pug making one pug face. But seems more like a Pig",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^2.0.0-rc.1",
+    "scss-compile": "^0.1.7"
+  }
+}
